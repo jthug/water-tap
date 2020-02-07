@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/water-tap/static/css/main.22a71e13.chunk.css",
+    "main.js": "/water-tap/static/js/main.cfb5c0d7.chunk.js",
+    "main.js.map": "/water-tap/static/js/main.cfb5c0d7.chunk.js.map",
+    "runtime-main.js": "/water-tap/static/js/runtime-main.b8ea2553.js",
+    "runtime-main.js.map": "/water-tap/static/js/runtime-main.b8ea2553.js.map",
+    "static/js/2.e8ce7aa1.chunk.js": "/water-tap/static/js/2.e8ce7aa1.chunk.js",
+    "static/js/2.e8ce7aa1.chunk.js.map": "/water-tap/static/js/2.e8ce7aa1.chunk.js.map",
+    "index.html": "/water-tap/index.html",
+    "precache-manifest.ee7a0dc17039aff5faaa10540fbeefe3.js": "/water-tap/precache-manifest.ee7a0dc17039aff5faaa10540fbeefe3.js",
+    "service-worker.js": "/water-tap/service-worker.js",
+    "static/css/main.22a71e13.chunk.css.map": "/water-tap/static/css/main.22a71e13.chunk.css.map",
+    "static/js/2.e8ce7aa1.chunk.js.LICENSE": "/water-tap/static/js/2.e8ce7aa1.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8ea2553.js",
+    "static/js/2.e8ce7aa1.chunk.js",
+    "static/css/main.22a71e13.chunk.css",
+    "static/js/main.cfb5c0d7.chunk.js"
+  ]
+}
